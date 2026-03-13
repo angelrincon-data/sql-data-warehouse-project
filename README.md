@@ -4,6 +4,23 @@ Welcome to the **Data Warehouse and Analytics Project** repository
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portafolio project highlights industry best practices in data engineering and analytics.
 
 ---
+## 📖 Project Overview
+This project involves:
+
+Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+
+SQL Development
+Data Architect
+Data Engineering
+ETL Pipeline Developer
+Data Modeling
+Data Analytics
+
+---
 
 ## Project Requirements
 
@@ -48,4 +65,5 @@ I work with tools such as **SQL, Excel, Power BI, and Python** to clean, analyze
 This project is part of my journey to strengthen my **Data Analytics and Data Engineering skills**, applying concepts like **ETL processes, dimensional modeling, and building Data Warehouses**.
 
 I’m continuously learning and building projects to grow as a **Data Analyst and contribute to data-driven organizations**.
+<img width="91" height="28" alt="image" src="https://www.linkedin.com/in/angel-david-rincon-data" />
 
