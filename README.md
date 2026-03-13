@@ -65,5 +65,5 @@ I work with tools such as **SQL, Excel, Power BI, and Python** to clean, analyze
 This project is part of my journey to strengthen my **Data Analytics and Data Engineering skills**, applying concepts like **ETL processes, dimensional modeling, and building Data Warehouses**.
 
 I’m continuously learning and building projects to grow as a **Data Analyst and contribute to data-driven organizations**.
-<img width="91" height="28" alt="image" src="https://www.linkedin.com/in/angel-david-rincon-data" />
+
 
